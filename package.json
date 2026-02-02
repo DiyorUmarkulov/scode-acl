@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "description": "Structured Compressed Access Control List — flat and nested ACL encoder/decoder",
   "type": "module",
-  "main": "dist/index.cjs",
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "files": [
     "dist"
   ],
