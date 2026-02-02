@@ -1,6 +1,6 @@
 {
   "name": "scode-acl",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Structured Compressed Access Control List — flat and nested ACL encoder/decoder",
   "type": "module",
   "main": "./dist/index.cjs",
